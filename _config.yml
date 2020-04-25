@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruirong Chen"
 title_separator          : "-"
 name                     : &name "Ruirong Chen"
-description              : &description "I am a third year Ph.D. student from the University of Pittsburgh.My research interests include wireless networks, wireless sensing, Internet of Things and Smart health. I have published papers on top conference, e.g ACM CoNEXT, HotMobile and IEEE INFOCOM .I am a big fan of traveling, hiking, reading and building Legos."
+description              : &description "Third year Ph.D. student from the University of Pittsburgh"
 url                      : https://RuirongChen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmcruirong/RuirongChen.gitbub.io"
@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-username: &twitter
+#twitter:
+#username: &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "RuirongChen"
-  avatar           : "profile.png"
+  avatar           : "RuirongChen.png"
   bio              : "Ph.D at University of Pittsburgh"
   location         : "Pittsburgh"
   employer         : "Univerisity of Pittsburgh"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=N-NBveMAAAAJ"
   email            : "RuirongChen@pitt.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+# researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,14 +101,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/chen-ruirong-35837192/en"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+      #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
