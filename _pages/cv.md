@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-[View my CV here](https://github.com/mmcruirong/RuirongChen.github.io/blob/master/files/Resume-Ruirong%20Chen-Pitt.pdf) (Last update: 03/2020)
+[View my CV here](https://github.com/mmcruirong/RuirongChen.github.io/raw/master/files/Resume-Ruirong%20Chen-Pitt.pdf) (Last update: 03/2020)
 
 
