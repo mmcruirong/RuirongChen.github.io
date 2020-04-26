@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* Welcome, my name is , .
+Welcome, my name is .
 
-* I .
+I .
 
 * During my 
                                                                                                                                                                                                                     
