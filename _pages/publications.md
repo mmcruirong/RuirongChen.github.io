@@ -17,6 +17,6 @@ author_profile: true
 
 <b>EasyPass: combating IoT delay with multiple access wireless side channelsl</b> <br>
 Haoyang Lu,<b>Ruirong Chen</b>, Wei Gao
-<i>Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies(<b>ACM CONEXT</b>)<br>
+<i>Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies(<b>ACM CONEXT 2019</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3359989.3365421)
 </i> <span style="color:red"> Best Paper Award </span>
