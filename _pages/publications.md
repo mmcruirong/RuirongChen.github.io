@@ -1,5 +1,6 @@
+---
 layout: archive
-title: "Recent Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -7,13 +8,13 @@ author_profile: true
 <b>Ruirong Chen</b>, Wei Gao <br>
 <i>IEEE INFOCOM 2019-IEEE Conference on Computer Communications</i> (<b>IEEE INFOCOM 2019</b>)<br>
 <i>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8737379)
-</i>
+
 
 <b>Minimizing Wireless Delay with a High-Throughput Side Channel</b> <br>
 <b>Ruirong Chen</b>, Haoyang Lu, Wei Gao <br>
 <i>IEEE Transactions on Mobile Computing</i> 
 <i>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8703101)
-</i>
+
 
 <b>EasyPass: combating IoT delay with multiple access wireless side channelsl</b> <br>
 Haoyang Lu,<b>Ruirong Chen</b>, Wei Gao
