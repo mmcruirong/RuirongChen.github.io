@@ -1,16 +1,11 @@
----
 layout: archive
-title: "Publications"
+title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% https://scholar.google.com/citations?hl=en&user=N-NBveMAAAAJ %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>Enabling Cross-Technology Coexistence for Extremely Weak Wireless Devices</b> <br>
+ Ruirong Chen, Wei Gao <br>
+<i>IEEE INFOCOM 2019-IEEE Conference on Computer Communications</i> (<b>CHI 2020</b>)<br>
+<i>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8737379)
+</i>
