@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ruirong Chen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-This is ABOUT ME.
+I am a third year Ph.D. student from the University of Pittsburgh. 
+
+My research interests include wireless networks, wireless sensing, Internet of Things and Smart health.  
+
+I have published papers on top conference, e.g ACM CoNEXT, HotMobile and IEEE INFOCOM .
+
+I am a big fan of traveling, hiking, reading and building Legos. 
+
 
 Latest News/Updates
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public 
+
 
 
 
