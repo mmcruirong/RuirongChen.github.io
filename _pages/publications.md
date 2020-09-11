@@ -11,7 +11,7 @@ author_profile: true
 
 <b>StarLego: Enabling Custom Physical-Layer Wireless over Commodity Devices</b> <br>
 <b>Ruirong Chen</b>, Wei Gao <br>
-<i>Proceedings of the 21st International Workshop on Mobile Computing Systems and Applications(<b>ACM HOTMOBILE 2020</b>)<br>
+<i>Proceedings of the 21st International Workshop on Mobile Computing Systems and Applications (<b>ACM HOTMOBILE 2020</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3376897.3377852)
 
 <b>Minimizing Wireless Delay with a High-Throughput Side Channel</b> <br>
@@ -22,7 +22,7 @@ author_profile: true
 
 <b>EasyPass: combating IoT delay with multiple access wireless side channels</b> <br>
 Haoyang Lu,<b>Ruirong Chen</b>, Wei Gao <br>
-<i>Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies(<b>ACM CONEXT 2019</b>)<br>
+<i>Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies (<b>ACM CONEXT 2019</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3359989.3365421)
 </i> <span style="color:red"> Best Paper Award </span>
   
