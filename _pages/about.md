@@ -20,11 +20,11 @@ I am a big fan of traveling, hiking, reading and building Legos.
 
 Latest News/Updates
 ======
-* [08/2020] One paper got accepted to ACM MOBICOM 2020!
+* [08/2020] One paper got accepted to <b>ACM MOBICOM</b>2020!
 * [03/2020] I am awarded the best RA in the Department of Electrical and Computer Engineering at University of Pittsburgh!
-* [12/2019] One paper got accepted to ACM HOTMOBILE 2020!
-* [12/2019] Our paper:EasyPass: combating IoT delay with multiple access wireless side channels is awarded the <b> BEST PAPER AWARD <\b> at ACM CONEXT 2019!
-* [09/2019] One paper got accepted to ACM CONEXT 2019!
+* [12/2019] One paper got accepted to <b>ACM HOTMOBILE</b> 2020!
+* [12/2019] Our paper:EasyPass: combating IoT delay with multiple access wireless side channels is awarded the <b> BEST PAPER AWARD </b> at ACM CONEXT 2019!
+* [09/2019] One paper got accepted to <b>ACM CONEXT 2019!</b>
 
 
 
