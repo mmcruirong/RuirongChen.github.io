@@ -10,7 +10,7 @@ author_profile: true
 <i>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8737379)
 
 <b>StarLego: Enabling Custom Physical-Layer Wireless over Commodity Devices</b> <br>
-<b>Ruirong Chen</b>, Wei Gao
+<b>Ruirong Chen</b>, Wei Gao <br>
 <i>Proceedings of the 21st International Workshop on Mobile Computing Systems and Applications(<b>ACM HOTMOBILE 2020</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3376897.3377852)
 
