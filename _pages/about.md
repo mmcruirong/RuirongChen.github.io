@@ -20,7 +20,8 @@ I am a big fan of traveling, hiking, reading and building Legos.
 
 Latest News/Updates
 ======
-
+* [08/2020] One paper got accepted to ACM MOBICOM 2020!
+* [03/2020] I am awarded the best RA in the Department of Electrical and Computer Engineering at University of Pittsburgh!
 
 
 
