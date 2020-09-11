@@ -20,7 +20,7 @@ author_profile: true
 <i>[[PDF]](https://ieeexplore.ieee.org/abstract/document/8703101)
 
 
-<b>EasyPass: combating IoT delay with multiple access wireless side channelsl</b> <br>
+<b>EasyPass: combating IoT delay with multiple access wireless side channels</b> <br>
 Haoyang Lu,<b>Ruirong Chen</b>, Wei Gao <br>
 <i>Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies(<b>ACM CONEXT 2019</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3359989.3365421)
