@@ -21,7 +21,7 @@ author_profile: true
 
 
 <b>EasyPass: combating IoT delay with multiple access wireless side channelsl</b> <br>
-Haoyang Lu,<b>Ruirong Chen</b>, Wei Gao
+Haoyang Lu,<b>Ruirong Chen</b>, Wei Gao <br>
 <i>Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies(<b>ACM CONEXT 2019</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3359989.3365421)
 </i> <span style="color:red"> Best Paper Award </span>
@@ -32,6 +32,6 @@ Zhuoyuan Song, Cameron Mazzola, Eric Schwartz,<b> Ruirong Chen</b>, Julian Finla
 <i>[[PDF]](https://www.ingentaconnect.com/content/mts/mtsj/2016/00000050/00000005/art00009)
 
 <b>Device-Free Acoustic Motion Tracking over Targets with Large Sizes</b> <br>
-Yuqi Li, <b> Ruirong Chen</b>, XIngzhe Song, Wei Gao, Wei Chen, Erick Forno
+Yuqi Li, <b> Ruirong Chen</b>, XIngzhe Song, Wei Gao, Wei Chen, Erick Forno <br>
 <i>2019 IEEE 16th International Conference on Mobile Ad Hoc and Sensor Systems (MASS)<br>
 <i>[[PDF]](https://ieeexplore.ieee.org/abstract/document/9077518)
