@@ -29,8 +29,6 @@ Latest News/Updates
 * [01/2019] One paper got accepted to IEEE Transactions on Mobile Computing 2019!
 * [10/2018] One paper got accepted to IEEE INFOCOM 2019-IEEE Conference on Computer Communications <b>IEEE INFOCOM</b> 2019!
 
-Visitors
-=======
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=250&t=n&d=gkUgx_rJxyGnlm9h49vUyEn8lS4ZIy-1rPBbiEUZCKY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+
 
 
