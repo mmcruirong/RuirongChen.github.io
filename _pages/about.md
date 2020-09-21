@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 Hi, I am Ruirong Chen. I am currently a forth year Ph.D student in the Department of Electrical and Computer Engineering at University of Pittsburgh. I am conducting research in 
-Network and system lab under supervision of Dr.Wei Gao.
+Mobile Systems and Networking lab under supervision of Dr.Wei Gao.
 
-My research interests include wireless networks, wireless sensing, Internet of Things and smart health systems. During my current Ph.D studies, I am very active in discovering new problems in cutting edge systems and innvoating applicatable solutions to these problems.  I proposed a new wireless system that bridge tha gap between obsolete and new wireless devices by emulating arbitrary wireless signals from a commodity WiFi device. Moreover, aiming to resolve the cross-technology coexistence, I have designed a WiFi PHY layer that  enables the cross-technology coexistence between strong and weak wireless devices. I also assisted in designing a multi-access wireless side channel that enables multiple side channel devices accessing the main channel. 
+My research interests include wireless networks, wireless sensing, Internet of Things and smart health systems. During my current Ph.D studies, I am very active in discovering new problems in cutting edge systems and innvoating applicatable solutions to these problems.  I proposed a new wireless system that bridge tha gap between obsolete and new wireless devices by emulating arbitrary wireless signals from a commodity WiFi device. Moreover, aiming to resolve the cross-technology coexistence, I have designed a WiFi PHY layer that  enables the cross-technology coexistence between strong and weak wireless devices. I also developed a multi-access wireless side channel that enables multiple side channel devices accessing the main channel concurrently.
 
 These works have turned into publications in top conferences, e.g ACM MOBICOM,ACM CoNEXT, HotMobile and IEEE INFOCOM.
 
@@ -25,6 +25,12 @@ Latest News/Updates
 * [12/2019] One paper got accepted to Proceedings of the 21st International Workshop on Mobile Computing Systems and Applications <b>ACM HOTMOBILE</b> 2020!
 * [12/2019] Our paper:EasyPass: combating IoT delay with multiple access wireless side channels is awarded the <b> BEST PAPER</b> award at <b>ACM CONEXT</b> 2019!
 * [09/2019] One paper got accepted to Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies <b>ACM CONEXT</b> 2019!
+* [07/2019] One paper got accepted to 2019 IEEE 16th International Conference on Mobile Ad Hoc and Sensor Systems <b>IEEE MASS</b> 2019!
+* [01/2019] One paper got accepted to IEEE Transactions on Mobile Computing 2019!
+* [10/2018] One paper got accepted to IEEE INFOCOM 2019-IEEE Conference on Computer Communications <b>IEEE INFOCOM</b> 2019!
 
+Visitors
+=======
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=250&t=n&d=gkUgx_rJxyGnlm9h49vUyEn8lS4ZIy-1rPBbiEUZCKY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
 
